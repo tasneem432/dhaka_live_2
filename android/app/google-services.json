@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "880785917450",
+    "project_id": "dhaka-live-2-bcc61",
+    "storage_bucket": "dhaka-live-2-bcc61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880785917450:android:cbc777611dcc5a075401f3",
+        "android_client_info": {
+          "package_name": "com.example.dhaka_live_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880785917450-35k5u45ceupasnqadk558rfm10rpveqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhaka_live_2",
+            "certificate_hash": "79e872ade925168c6107694cec6b9c6560ba9627"
+          }
+        },
+        {
+          "client_id": "880785917450-b5g8q2iuodmduvki5act7vioavmonp3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSv3_Uvj8MIvYkSPj3VBNGx9urbXUlfM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880785917450-b5g8q2iuodmduvki5act7vioavmonp3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
